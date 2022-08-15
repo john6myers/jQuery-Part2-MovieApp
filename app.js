@@ -22,17 +22,6 @@ $('#submit').on('click', function (e) {
         </li>`
     );
 
-    // const list = document.getElementById('list')
-    // const li = document.createElement('li');
-    // li.addEventListener('click', () => {
-    //   // todo
-    //   alert('clicked')
-    // })
-    // li.innerHTML = 
-    //  `<b>Movie Title: </b> ${title} 
-    //   <b>Movie Rating:</b> ${rating} 
-    //   <button class="remove">Delete</button>`;
-    // list.appendChild(li)
 
     $('#form')[0].reset();
   });
